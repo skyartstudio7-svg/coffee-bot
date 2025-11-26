@@ -1,7 +1,7 @@
 # Telegram Bot Configuration
 
 # Bot token from @BotFather
-BOT_TOKEN = 8219320444:AAGtXKl5qBM6w0UMlcCB2QJ3Hh2KMu4Hryc
+BOT_TOKEN = "8219320444:AAGtXKl5qBM6w0UMlcCB2QJ3Hh2KMu4Hryc"
 
 # Staff chat ID for order notifications
 STAFF_CHAT_ID = "YOUR_STAFF_CHAT_ID_HERE"
